@@ -1,2 +1,2 @@
-R_repo
+datasciencecoursera
 ======
